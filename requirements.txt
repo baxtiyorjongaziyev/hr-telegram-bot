@@ -1,6 +1,5 @@
-aiogram==3.0.0b8
-python-dotenv
-aiosqlite
+aiogram==3.13.1
 fastapi
 uvicorn
+python-dotenv
 aiohttp==3.8.4
